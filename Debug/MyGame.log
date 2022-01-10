@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\MicrosoftVisualStudio\source\repos\MyGame\MyGame\Source.cpp(504,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MicrosoftVisualStudio\source\repos\MyGame\MyGame\Source.cpp(583,5): warning C4007: wWinMain: должен быть "__stdcall"
+  MyGame.vcxproj -> D:\MicrosoftVisualStudio\source\repos\MyGame\Debug\MyGame.exe
